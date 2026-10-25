@@ -1,5 +1,5 @@
 # Ignore compiled binary files
-a.out
+*.out
 
 # Ignore the ac-library folder
 ac-library/
